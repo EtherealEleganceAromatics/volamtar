@@ -1,6 +1,8 @@
-# Ethereal Elegance Design
+# volamtar
 
-This project provides the web services and website for Ethereal Elegance Design.
+> Blazers of fresh trails
+
+This project provides the website for Ethereal Elegance Design.
 
 ### Usage
 
